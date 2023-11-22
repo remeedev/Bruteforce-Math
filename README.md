@@ -1,6 +1,4 @@
 # Bruteforce Math
+## Even though repository name is bruteforce it uses a hill climb algorithm
 
-Not a password bruteforce or anything like that
-just a weird thing I wanted to do.
-
-I am not entirely sure that it works for every single variable equations but it did for the ones in examples.
+Tested precision of around 7-8 decimal digits, could be more.
